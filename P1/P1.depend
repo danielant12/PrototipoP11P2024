@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709138568 source:c:\users\gisistemas\desktop\parcial 1 progra\p1\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+
