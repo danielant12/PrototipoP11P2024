@@ -1,0 +1,242 @@
+
+1716940182 source:c:\users\gisistemas\desktop\rep\final\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Recetas.h"
+	"Puestos.h"
+	"Bitacora.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\recetas.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\rep\final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1716998563 source:c:\users\gisistemas\desktop\rep\final\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+
+1716940182 source:c:\users\gisistemas\desktop\final - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Recetas.h"
+	"Puestos.h"
+	"Bitacora.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\recetas.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final - copia\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1716998719 source:c:\users\gisistemas\desktop\final - copia\src\menus.cpp
+	"Menus.h"
+	"Recetas.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1716998563 source:c:\users\gisistemas\desktop\final - copia\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+
+1716998719 source:c:\users\gisistemas\desktop\final2024\src\menus.cpp
+	"Menus.h"
+	"Recetas.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1717000342 c:\users\gisistemas\desktop\final2024\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Habitacion.h"
+	"Puestos.h"
+	"Bitacora.h"
+
+1716940182 c:\users\gisistemas\desktop\final2024\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final2024\include\recetas.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final2024\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716940182 c:\users\gisistemas\desktop\final2024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1716998563 source:c:\users\gisistemas\desktop\final2024\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+
+1716940182 c:\users\gisistemas\desktop\final2024\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1716999578 source:c:\users\gisistemas\desktop\final2024\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1717000306 c:\users\gisistemas\desktop\final2024\include\habitacion.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
