@@ -1,5 +1,5 @@
 #include "Menus.h"
-#include "Habitacion.h"
+#include "Pacientes.h"
 #include<iostream>
 #include<fstream>
 #include<stdlib.h>
@@ -18,7 +18,7 @@ Bitacora imprimirBitacora;
 string Menus::menuInicial(string nombreUsuario)
 {
     string userName = nombreUsuario;
-   // system("cls");
+    system("cls");
     int optEscoger = 0;
     bool repetir = true;
     do
@@ -59,7 +59,7 @@ string Menus::menuInicial(string nombreUsuario)
     }
     case 3:{
         system("cls");
-       // subMenuInformes(userName);
+       subMenuInformes(userName);
         break;
         }
     case 4:{
@@ -89,8 +89,8 @@ string Menus::menuCatalogos(string nombreUsuario)
     cout << "\t\t\t| Bienvenido al Menu de Catalogos |";
     cout << "\n\t\t\t---------------------------------"<<endl;
 
-    cout << "\n\t\t\t1. Habitaciones"<<endl;
-    cout << "\t\t\t2. TipoCamas"<<endl;
+    cout << "\n\t\t\t1. Pacientes"<<endl;
+    cout << "\t\t\t2. TipoPaciente"<<endl;
     cout << "\t\t\t3. Regresar" << endl;
     cout << "\n\n\t\t\t---------------------------------------";
     cout << "\n\t\t\t| Opciones a escoger: [1] - [2] - [3] ";
@@ -140,7 +140,7 @@ string Menus::menuProcesos(string nombreUsuario)
     cout << "\n\t\t\t-----------------------------------\n";
     cout << "\t\t\t| Bienvenido al Menu de Procesos |";
     cout << "\n\t\t\t---------------------------------"<<endl;
-    cout << "\t\t\t1. Habitaciones Disponibles"<<endl;
+    cout << "\t\t\t1. Recetas"<<endl;
     cout << "\t\t\t2. Bitacora"<<endl;
     cout << "\t\t\t3. Regresar al menu anterior" << endl;
     cout << "\n\n\t\t\t---------------------------------------";
@@ -155,8 +155,8 @@ string Menus::menuProcesos(string nombreUsuario)
 
     case 1:{
        system("cls");
-      // Recetas Menus;
-//       Menu.insertarRecetas();
+       //Recetas Menus;
+       //Menu.insertarRecetas();
        system("pause");
                 break;
     }

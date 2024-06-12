@@ -1,4 +1,4 @@
-#include "Habitacion.h"
+#include "Pacientes.h"
 
 void Recetas::insertarHabitaciones(string nombreUsuario)
 {
@@ -8,13 +8,13 @@ void Recetas::insertarHabitaciones(string nombreUsuario)
 	fstream file;
 	cout<<"\n------------------------------------------------------------------------------------------------------------------------";
 	cout<<"\n-------------------------------------------------Ingreso de Recetas -------------------------------------------"<<endl;
-	cout<<"\t\t\tIngresa Id del Cliente          : ";
+	cout<<"\t\t\tIngresa Id del paciente          : ";
 	cin>>idReceta;
-	cout<<"\t\t\tIngresa Nombre del Cliente       : ";
+	cout<<"\t\t\tIngresa Nombre del Paciente       : ";
 	cin>>nombreReceta;
-	cout<<"\t\t\tIngresa Habitacion elegida        : ";
+	cout<<"\t\t\tIngresa telefono del paciente        : ";
 	cin>>medicinaReceta;
-	file.open("Habitacion.txt", ios::app | ios::out);
+	file.open("Recetas.txt", ios::app | ios::out);
 	file <<std::left<<std::setw(15)<< idHabitacion <<std::left<<std::setw(15)<< nombreHabitacion<< "\n";
 	file.close();
 }

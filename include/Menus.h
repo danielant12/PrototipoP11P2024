@@ -7,7 +7,7 @@
 #include<conio.h>
 #include<iomanip>
 #include "EmpleadosPlanilla.h"
-#include "Habitacion.h"
+#include "Pacientes.h"
 #include "Puestos.h"
 #include "Bitacora.h"
 

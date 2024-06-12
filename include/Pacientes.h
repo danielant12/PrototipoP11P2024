@@ -1,5 +1,5 @@
-#ifndef HABITACION_H
-#define HABITACION_H
+#ifndef PACIENTES_H
+#define PACIENTES_H
 #include <iostream>
 #include<fstream>
 #include<stdlib.h>
@@ -10,12 +10,12 @@
 
 using namespace std;
 
-class Habitaciones
+class Pacientes
 {
-   void insertarHabitaciones(string nombreUsuario);
+   void insertarPacientes(string nombreUsuario);
 
     private:
-       string idHabitacion, nombreHabitacion, Habitacion;
+       string idPaciente, nombrePaciente, Paciente;
 };
 
 #endif // RECETAS_H
